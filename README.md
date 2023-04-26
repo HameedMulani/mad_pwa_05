@@ -18,7 +18,7 @@ During this experiment, we acquired knowledge about
 |:--:|
 | *Splash Screen* |
 
-|![plot](./assets/screenshots/screenshot_2.png?raw=true) |
+|![login1](https://user-images.githubusercontent.com/55029779/234524187-b3e9b8c4-95f3-4412-86f2-e91b1cec641c.jpeg) |
 |:--:|
 | *SignIn Screen* |
 
@@ -26,7 +26,7 @@ During this experiment, we acquired knowledge about
 |:--:|
 | *Reset Password Screen* |
 
-|![plot](./assets/screenshots/screenshot_4.png?raw=true) |
+|![create acc1](https://user-images.githubusercontent.com/55029779/234524051-8c4ea46f-4057-4eb1-8a81-544d90fd7afd.jpeg) |
 |:--:|
 | *SignUp Screen* |
 
